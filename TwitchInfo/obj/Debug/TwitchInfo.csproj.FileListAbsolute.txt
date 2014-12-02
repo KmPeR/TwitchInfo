@@ -1,0 +1,6 @@
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Debug\TwitchInfo.exe.config
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Debug\TwitchInfo.csprojResolveAssemblyReference.cache
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Debug\TwitchInfo.exe
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Debug\TwitchInfo.pdb
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Debug\TwitchInfo.exe
+c:\users\kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Debug\TwitchInfo.pdb

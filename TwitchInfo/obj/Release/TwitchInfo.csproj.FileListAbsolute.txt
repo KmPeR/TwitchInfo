@@ -1,0 +1,11 @@
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\TwitchInfo.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\TwitchInfo.exe
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\TwitchInfo.pdb
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Release\TwitchInfo.exe
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Release\TwitchInfo.pdb
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Release\TwitchInfo.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Release\TwitchInfo.WinOptions.resources
+C:\Users\Kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\obj\Release\TwitchInfo.csproj.GenerateResource.Cache
+C:\Users\Kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Kamil\documents\visual studio 2013\Projects\TwitchInfo\TwitchInfo\bin\Release\Newtonsoft.Json.xml
